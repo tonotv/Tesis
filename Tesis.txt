@@ -1,1 +1,1 @@
-
+Git es un programa que se instala en la computadora, el cual te permite realizar trabajos en equipo de manera simultanea, viendo a la par la historia de tu archivo. Githhub hace lo mismo, pero solo que esta interfaz se encuentra en línea
